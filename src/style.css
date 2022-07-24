@@ -61,6 +61,13 @@ h3 {
   color: rgba(0, 0, 0, 0.6);
 }
 
+a.github-link {
+  text-decoration: none;
+  color: black;
+  display: block;
+  text-align: center;
+}
+
 .units {
   transition: all 200ms ease-in-out;
 }
